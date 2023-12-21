@@ -1,1 +1,1 @@
-# MLOP Practices
+# MLops Practice documented
