@@ -19,7 +19,7 @@ jobs:
 
     - name: Install dependencies
       run: |
-        install_dependencies
+        make install_dependencies
 
     - name: Run tests
       run: |
